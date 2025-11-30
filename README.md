@@ -35,7 +35,7 @@ This repository does not have a specified license. If you need a license, consid
 
 ## Contact
 
-For more information, visit my [GitHub profile](https://github.com/opurbadev).
+For more information, visit my [GitHub profile](https://github.com/Devvify).
 <!--
 **Devvify/Devvify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
